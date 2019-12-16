@@ -17,6 +17,7 @@ require __DIR__ . '/vendor/autoload.php';
 use Cvar1984/Hello;
 try {
     Hello::setMessage('Hello world');
+    echo Hello::getMessage();
 }
 catch(Exception $e) {
     echo $e->getMessage();
