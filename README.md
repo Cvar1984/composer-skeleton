@@ -1,3 +1,5 @@
+[![LICENSE](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![PHP](https://img.shields.io/badge/made%20with-php-green.svg)](https://php.net)
 # composer-skeleton
 > Contoh library composer
 
